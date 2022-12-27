@@ -5,4 +5,5 @@ This can be achieved by recognizing and understanding the important factors that
 These insights can help managers for grabing the opportunity to take corrective steps to build and preserve their successful business.
 
 In this notebook, we will work on the project that is based on understanding what factors contributed most to employee turnover and to create a model that can predict if a certain employee will leave the company or not.
-Data File  for the project is    HR_comma_sep.csv 
+
+ Data File  for the project is    HR_comma_sep.csv 
